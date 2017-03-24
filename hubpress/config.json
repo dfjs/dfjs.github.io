@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://dfjs.github.io",
-    "hubpress": "https://dfjs.github.io",
-    "theme": "//dfjs.github.io/themes/casper",
-    "images": "https://dfjs.github.io/images"
+    "site": "http://dfjs.io",
+    "hubpress": "http://dfjs.io",
+    "theme": "//dfjs.io/themes/casper",
+    "images": "http://dfjs.io/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
