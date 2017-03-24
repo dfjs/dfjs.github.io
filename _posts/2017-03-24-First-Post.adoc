@@ -1,0 +1,10 @@
+
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: First Post
+
+= First Post
+
+:hp-image: /covers/cover.png
+
+First post.
