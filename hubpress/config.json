@@ -2,7 +2,8 @@
   "meta": {
     "username": "dfjs",
     "repositoryName": "dfjs.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "dfjs",
+    "twitter": "dfjsc",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
