@@ -25,13 +25,13 @@
     ]
   },
   "site": {
-    "title": "",
+    "title": "dfjs io",
     "description": "",
     "logo": "",
     "cover": "",
     "delay": "",
     "postsPerPage": "",
-    "googleAnalytics": "",
+    "googleAnalytics": "UA-26103201-2",
     "disqus": ""
   },
   "socialnetwork": {
